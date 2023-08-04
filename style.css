@@ -1,0 +1,36 @@
+h1 {
+    font-size: 50px;
+}
+
+body {
+    display: flex;  
+    flex-direction: column;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+button {
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+}
+
+.options {
+    display: flex;
+    flex-direction: row;
+}
+
+.content {
+    font-size: 30px;
+    padding: 20px;
+}   
+
+.score {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    width: 200px;
+    text-align: center;
+}
